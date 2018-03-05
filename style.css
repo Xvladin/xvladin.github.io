@@ -12,6 +12,7 @@
 p.meat{
 	color: yellow;
 	position: relative;
-	left: 50%;
-	top: 50%;
+	text-align: center;
+	top: 37%;
+	font-size: 50;
 }
